@@ -73,6 +73,15 @@ body {
     }
 }
 
+.profile-social {
+    list-style: none;
+    & a {
+        color: red;
+        text-decoration: none;
+        font-size: 20px;
+    }
+}
+
 
 
 
